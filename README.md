@@ -1,4 +1,4 @@
-### Owerview
+### Overview
 
 Данное тестовое задание состоит из 3 блоков. Ниже даны постановки задач. Ход решения с комментариями и результаты работы отржаны в ноутбуке [DmitriyAtamanov-25032024-SberIndustry-notebook.ipynb](DmitriyAtamanov-25032024-SberIndustry-notebook.ipynb)
 
